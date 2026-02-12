@@ -1,2 +1,2 @@
-Proyecto_2
+Proyecto-2
 En este proyecto utilicé un while para poder ciclar mi programa y que me pidiera ingresar una opción dependiendo lo que quisiéramos hacer, agregue if, elif y else, para cada una de las opciones ya que agregamos los dos programas en uno solo, le dimos la opción también para poder cerrarlo, el Boot Camp nos ha dado herramientas que podemos utilizar y ver cuales son las mas convenientes para lo que queremos hacer.
