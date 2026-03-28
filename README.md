@@ -1,2 +1,1 @@
-# Proyectos_de_Utel
-Repositorio de proyectos de utel
+En este tercer proyecto, fue muy útil como aprender a hacer gráficos,  este proyecto me ayudo a reforzar la creación de funciones ya que hicimos dos,  importamos librerías para la misma creación de los gráficos y random para los números al azar, y reforzamos el conocimiento utilizando por ejemplo el for que es algo que ya habíamos visto desde el modulo anterior. Me quedo con el aprendizaje de como hacer gráficas.
